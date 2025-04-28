@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759224872439",
+    "project_id": "databus-617ac",
+    "storage_bucket": "databus-617ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759224872439:android:06fc5ef750e70a534452f2",
+        "android_client_info": {
+          "package_name": "com.databus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1iJ77raRnqW9q_2SNwybnQC2eMaeERQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
